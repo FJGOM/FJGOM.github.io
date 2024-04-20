@@ -1,0 +1,97 @@
+/* Archivo: estilos.css */
+
+.jersey-25-regular {
+    font-family: "Jersey 25", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(45, 41, 41);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#r1 {
+    background-color: #3C3C3C;
+}
+#r3 {
+    background-color: black;
+}
+
+#tw {
+    width: 45px;
+    height: auto;
+    position: relative;
+    margin: 5px;
+}
+#ig {
+    width: 45px;
+    height: auto;
+    position: relative;
+    margin: 5px;
+}
+#ws {
+    width: 45px;
+    height: auto;
+    position: relative;
+    margin: 5px;
+}
+#ld {
+    width: 45px;
+    height: auto;
+    position: relative;
+    margin: 5px;
+}
+#logosg {
+    width: 70px;
+    height: auto;
+    position: relative;
+}
+.centro {
+display: flex; 
+justify-content: center;
+align-items: center;
+}
+#texto1 {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 40%;
+    width: 60%;
+    font-size: 70px;
+    color: yellow;
+    font-weight: 700;
+    font-family: "Jersey 25", sans-serif;
+    }
+    #texto2 {
+        display: flex; 
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        height: 40%;
+        width: 90%;
+        font-size: 25px;
+        color: white;
+        font-weight: 200;
+        font-family: "Jersey 25", sans-serif;
+        }
+#yo {
+     width: 480px;
+     height: auto;
+     position: relative;
+}
+#logosg2{
+    width: 10px;
+    height: auto;
+    position: relative;
+}
